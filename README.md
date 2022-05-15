@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SirGsave
-- 👀 I’m interested in looking to develop my skill in AI
+- 👀 I’m interested in developing my skill in AI
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on courses in line with AI development
 - 📫 Reach me via https://LinkedIn.com/in/godsavekigbu
