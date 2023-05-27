@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SirGsave
-- 👀 I’m interested in upskilling in Tech
 - 🌱 I’m a Data Analytics
+- 👀 I am always looking to learn and upskill in Tech
 - 💞️ I’m looking to learn and master Back and Front end development!
 - 📫 Reach me via https://LinkedIn.com/in/godsavekigbu
 
