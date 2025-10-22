@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SirGsave
-- 🌱 I’m a Data Analytics & Data Scientist
+- 🌱 I’m a Data Analyst & Data Scientist
 - 👀 I am always looking to learn and upskill in Tech by building capacity
-- 💞️ I’m looking to learn and diversify into software development!
 - 📫 Reach me via https://LinkedIn.com/in/godsavekigbu
 
 <!---
